@@ -1,0 +1,4 @@
+IDA helper scripts
+==================
+
+lca_scan.py - finds the least common ancestor functions for 2 specified function calls
